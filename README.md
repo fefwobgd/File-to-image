@@ -1,7 +1,7 @@
 # File to image
 this is a useless applicaton
 
-not recommended on very large files such as 1GB
+not recommended on very large files
 
 
 # Example of shell32.dll
